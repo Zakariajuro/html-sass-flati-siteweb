@@ -1,0 +1,23 @@
+{
+  "name": "projet_11-12-20",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Zakariajuro/html-sass-flati-siteweb.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Zakariajuro/html-sass-flati-siteweb/issues"
+  },
+  "homepage": "https://github.com/Zakariajuro/html-sass-flati-siteweb#readme",
+  "dependencies": {
+    "@fortawesome/fontawesome-free": "^5.15.1"
+  }
+}
